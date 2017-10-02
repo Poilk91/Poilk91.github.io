@@ -1,7 +1,7 @@
 h1 {
 	font-size: 32px;
-  	font-family: Palatino, 'Palatino Linotype', serif;
-  	color: rgb(46,105,163);
+  	font-family: Palatino, 'Palatino Linotype', sans-serif;
+  	color: red;
 	margin 30px;
 }
 
