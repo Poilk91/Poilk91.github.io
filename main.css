@@ -1,10 +1,15 @@
 h1 {
 	font-size: 32px;
-  	font-family: Palatino, 'Palatino Linotype', sans-serif;
-  	color: red;
-	margin 30px;
+  	font-family: Palatino, 'Palatino Linotype', serif;
+  	color: rgb(46,105,163);
+	margin 60px;
 }
 
 .info{
+	padding: 250px 0;
 	text-align: center;
+}
+
+p{
+	padding 125px 0;
 }
