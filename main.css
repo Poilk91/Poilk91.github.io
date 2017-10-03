@@ -16,6 +16,9 @@ h1 {
 .info ul{
 	display: inline;
 }
+.info li{
+	display: inline;
+}
 
 p{
 	padding: 90px 0;
