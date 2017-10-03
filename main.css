@@ -6,7 +6,8 @@ h1 {
 }
 
 .info{
-	padding: 100px 0;
+	border: 2px solid black;
+	padding: 100px;
 	text-align: center;
 	color: black;
 }
