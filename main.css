@@ -2,16 +2,16 @@ h1 {
 	font-size: 32px;
   	font-family: Palatino, 'Palatino Linotype', serif;
   	color: rgb(46,105,163);
-	margin-left: 10px;
+	margin-left: 20px;
 }
 
 .info{
 	padding: 100px 0;
 	text-align: center;
-	color: red;
+	color: black;
 }
 
 p{
 	padding: 90px 0;
-	margin-left: 10px;
+	margin-left: 20px;
 }
